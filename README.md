@@ -8,7 +8,7 @@
 <h3 align="center">
   Backend developer from Russia 🇷🇺
   <br>
-  🚀 I create service web applications for space communications and the Internet
+  🚀 I create service web applications for space communications
   <br>
   ✊ My credo is not a day without at least a line of code
 </h3>
